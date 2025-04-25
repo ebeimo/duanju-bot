@@ -12,13 +12,13 @@
 好友授权搜剧：每个好友可设置免费搜剧次数或者授权使用!
 
 对接文档：可对接金山文档自动更新该文档，把更新的资源写入文档中！
+
+自动发微博：自动把每日更新短剧发微博
 # 下载及部署
 机器人文件下载地址：https://pan.quark.cn/s/254e88f7791d
-
-部署教程：https://www.bilibili.com/video/BV1TGPse2EcY/?spm_id_from=333.1387.homepage.video_card.click
-
+低至10/月 99永久（新用户可直接免费测试）
 官网（更新日志与介绍）：https://so.beimowl.com/
 
-
-![微信截图_20250215114109](https://github.com/user-attachments/assets/7914a3ff-61e0-45f5-8399-dd2f7516d4fc)
-![微信截图_20250221042030](https://github.com/user-attachments/assets/a106ff2c-2687-452a-8ce5-678a9dd5d37e)
+![bot (4)](https://github.com/user-attachments/assets/1511efe6-34e5-4adc-acaa-90776e779504)
+![bot (5)](https://github.com/user-attachments/assets/a2419686-062b-4a59-8d12-107d3b680af5)
+![bot (6)](https://github.com/user-attachments/assets/c36beab3-006a-4222-b0ec-065de7824b2f)
