@@ -14,9 +14,12 @@
 对接文档：可对接金山文档自动更新该文档，把更新的资源写入文档中！
 
 自动发微博：自动把每日更新短剧发微博
+
 # 下载及部署
 机器人文件下载地址：https://pan.quark.cn/s/254e88f7791d
+
 低至10/月 99永久（新用户可直接免费测试）
+
 官网（更新日志与介绍）：https://so.beimowl.com/
 
 ![bot (4)](https://github.com/user-attachments/assets/1511efe6-34e5-4adc-acaa-90776e779504)
